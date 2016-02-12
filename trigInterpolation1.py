@@ -3,7 +3,6 @@
  Date Modified: 11/11/15
  Implementation and Expirimentation of NumPy's FFT package
  Test Version # 2
- Problem Number 5
 '''
 
 import numpy as np
