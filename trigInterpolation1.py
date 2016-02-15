@@ -1,7 +1,7 @@
 '''
  Author: Michael Schniepp
  Date Modified: 11/11/15
- Implementation and Expirimentation of NumPy's FFT package
+ Implementation and Expirimentation of NumPy's FFT package for the purpose of trigonometric polynomial interpolation. 
  Test Version # 2
 '''
 
